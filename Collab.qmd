@@ -11,4 +11,8 @@ This is a collaborative Quarto project.
 
 <!-- Student sections will go here -->
 
+
 Change done by person B - Naveen Kaushik
+
+Change Done by person A
+
