@@ -12,7 +12,11 @@ This is a collaborative Quarto project.
 <!-- Student sections will go here -->
 
 
+person 2 
+
+
 Change done by person B - Naveen Kaushik
 
 Change Done by person A
+
 
